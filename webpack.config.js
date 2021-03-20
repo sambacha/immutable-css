@@ -7,7 +7,7 @@ const config = {
   entry: "./src/index.js",
   output: {
     path: path.resolve(__dirname, "dist"),
-    chunkFilename: "[name].[contenthash].js",
+    chunkFilename: "[name].[chunkhash].js",
     filename: "[name].[contenthash].js",
     assetModuleFilename: "[name].[contenthash][ext][query]",
   },
