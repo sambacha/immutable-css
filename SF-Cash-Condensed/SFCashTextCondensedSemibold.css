@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFCashTextCondensedSemibold';
+    src: url('fonts/SFCashTextCondensedSemibold.eot');
+    src: url('fonts/SFCashTextCondensedSemibold.eot') format('embedded-opentype'),
+         url('fonts/SFCashTextCondensedSemibold.woff2') format('woff2'),
+         url('fonts/SFCashTextCondensedSemibold.woff') format('woff'),
+         url('fonts/SFCashTextCondensedSemibold.ttf') format('truetype'),
+         url('fonts/SFCashTextCondensedSemibold.svg#SFCashTextCondensedSemibold') format('svg');
+}

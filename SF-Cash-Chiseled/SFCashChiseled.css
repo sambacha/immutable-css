@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFCashChiseled';
+    src: url('fonts/SFCashChiseled.eot');
+    src: url('fonts/SFCashChiseled.eot') format('embedded-opentype'),
+         url('fonts/SFCashChiseled.woff2') format('woff2'),
+         url('fonts/SFCashChiseled.woff') format('woff'),
+         url('fonts/SFCashChiseled.ttf') format('truetype'),
+         url('fonts/SFCashChiseled.svg#SFCashChiseled') format('svg');
+}

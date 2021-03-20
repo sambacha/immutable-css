@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SFCashPlain';
+    src: url('fonts/SFCashPlain.eot');
+    src: url('fonts/SFCashPlain.eot') format('embedded-opentype'),
+         url('fonts/SFCashPlain.woff2') format('woff2'),
+         url('fonts/SFCashPlain.woff') format('woff'),
+         url('fonts/SFCashPlain.ttf') format('truetype'),
+         url('fonts/SFCashPlain.svg#SFCashPlain') format('svg');
+}
